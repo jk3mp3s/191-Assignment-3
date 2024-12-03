@@ -10,7 +10,7 @@ The Sony PS5 is a globally popular gaming console, highly sought after by gamers
 <strong><span style="font-size:30px;">Step 1 - Scrape the PS5 pricing data from the web</span></strong>
 ![image](https://github.com/user-attachments/assets/c5f73ae5-2f6f-4711-96b1-ab521c6a1bde)
 
-The site <a href="[URL](https://www.theworldranking.com/statistics/160/playstation-5-prices-country/)">theworldranking.com/</a> contains data on the prices of the PS5 in a multitude of different countries. The data is from 2023 but it should be fine for our purposes, as our goal is more to analyze trends.
+The site <a href="https://www.theworldranking.com/statistics/160/playstation-5-prices-country/">theworldranking.com</a> contains data on the prices of the PS5 in a multitude of different countries. The data is from 2023 but it should be fine for our purposes, as our goal is more to analyze trends.
 
 <strong><span style="font-size:30px;">Step 2 - Tidying up the data</span></strong> 
 
@@ -39,6 +39,8 @@ I imported a file called ‘exchange rates.csv’ into a table which I called �
 Finding the price difference was simply a matter of subtracting the price of the PS5 in Canada from the price of the PS5 in every other country. The given price of the PS5 in Canada was $658.47, therefore we subtracted this from every other price.
 
 The final table contains all the data we need for further analysis.
+
+
 
 
 
