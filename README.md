@@ -42,6 +42,25 @@ The final table contains all the data we need for further analysis.
 
 ![image](https://github.com/user-attachments/assets/84ee9b8f-058d-4ed7-9a03-8149f0b406b0)
 
+<strong><span style="font-size:30px;">Step 6 - Visualizing the difference</span></strong>
+
+To visualize the difference in price we simply use the barh.() method to create a horizontal bar chart of the price differences.
+![image](https://github.com/user-attachments/assets/5c2cc889-fc32-446d-a486-09620af91721)
+
+As can be seen by the data above, Japan is the only country in which it would save money to purchase a PS5 there, although you would only save about $5 CAD. On the other hand, purchasing in China would result in an additional cost of about $520 CAD as opposed to purchasing in Canada.
+
+<strong><span style="font-size:30px;">Step 7 - The Purchasing Power Index:</span></strong>
+
+The Purchasing Power Index (PPI) measures the relative value of money in different locations or periods, showing how much goods and services a unit of currency can buy. It is calculated based on the cost of a "basket of goods and services" that reflects typical consumer spending habits, making it a useful tool for comparing the cost of living and economic conditions. The PPI helps assess disparities in living costs between regions, set fair wages, and understand economic differences globally. Unlike Purchasing Power Parity (PPP), which focuses on currency comparisons, the PPI emphasizes localized purchasing power. However, it relies on accurate price data and is influenced by inflation, making regular updates essential for reliable insights.
+
+<strong><span style="font-size:30px;">Conclusion:</span></strong>
+
+The graph "Purchasing Power Index vs. PS5 Pricing Difference" reveals a trend where countries with higher ps5 pricing differences  generally have smaller Purchasing Power Index. Indicating a negative correlation. This suggests that stronger currencies and greater affordability often lead to more competitive pricing. However, outliers with significant price differences despite moderate purchasing power highlight the influence of additional factors, such as import taxes, shipping costs, and local demand. The data supports the hypothesis that purchasing power plays a key role in pricing, while also suggesting that regional policies and market conditions are significant contributors to global price disparities.
+
+
+
+
+
 
 
 
