@@ -1,2 +1,2 @@
-# 191-Assignment-3
-##Sony PS5 Price Analysis
+# Sony PS5 Price Analysis
+#Daniel Dean, Kempes Pandey, Pranav Penmetsa
