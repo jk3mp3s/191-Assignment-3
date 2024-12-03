@@ -40,6 +40,9 @@ Finding the price difference was simply a matter of subtracting the price of the
 
 The final table contains all the data we need for further analysis.
 
+![image](https://github.com/user-attachments/assets/84ee9b8f-058d-4ed7-9a03-8149f0b406b0)
+
+
 
 
 
