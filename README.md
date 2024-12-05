@@ -1,6 +1,6 @@
 # Sony PS5 Price Analysis
-Daniel Dean, Kempes Pandey, Pranav Penmetsa
-
+Names: Daniel Dean, Kempes Pandey, Pranav Penmetsa
+ccids: dcdean, sumantra, nagapran
 ![image](https://github.com/user-attachments/assets/236569b6-dd23-46af-a8a0-c1394cc286eb)
 
 <strong><span style="font-size:30px;">Introduction:</span></strong>
@@ -52,6 +52,8 @@ As can be seen by the data above, Japan is the only country in which it would sa
 <strong><span style="font-size:30px;">Step 7 - The Purchasing Power Index:</span></strong>
 
 The Purchasing Power Index (PPI) measures the relative value of money in different locations or periods, showing how much goods and services a unit of currency can buy. It is calculated based on the cost of a "basket of goods and services" that reflects typical consumer spending habits, making it a useful tool for comparing the cost of living and economic conditions. The PPI helps assess disparities in living costs between regions, set fair wages, and understand economic differences globally. Unlike Purchasing Power Parity (PPP), which focuses on currency comparisons, the PPI emphasizes localized purchasing power. However, it relies on accurate price data and is influenced by inflation, making regular updates essential for reliable insights.
+![image](https://github.com/user-attachments/assets/c40ad291-fab8-4cb5-8e11-3bd860c4ccd5)
+
 
 <strong><span style="font-size:30px;">Conclusion:</span></strong>
 
