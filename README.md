@@ -1,5 +1,6 @@
 # Sony PS5 Price Analysis
 By:
+
 Daniel Dean: dcdean
 
 Kempes Pandey: sumantra
@@ -63,6 +64,7 @@ We thought that purchasing power index (PPI) would be an external factor that co
 Here we can see that there is indeed a correlation between PPI and the pricing difference of the PS5. Calculating the correlation coefficient of this plot, we ended up with a value of -0.75 which suggests the data is correlated relatively strongly.
 
 <strong><span style="font-size:30px;">The Purchasing Power Index:</span></strong>
+
 The <strong>Purchasing Power Index (PPI)</strong> measures the relative value of money in different locations or periods, showing how much goods and services a unit of currency can buy. It is calculated based on the cost of a "basket of goods and services" that reflects typical consumer spending habits, making it a useful tool for comparing the cost of living and economic conditions. The PPI helps assess disparities in living costs between regions, set fair wages, and understand economic differences globally. Unlike Purchasing Power Parity (PPP), which focuses on currency comparisons, the PPI emphasizes localized purchasing power. However, it relies on accurate price data and is influenced by inflation, making regular updates essential for reliable insights.
 
 <strong><span style="font-size:30px;">Conclusion:</span></strong>
