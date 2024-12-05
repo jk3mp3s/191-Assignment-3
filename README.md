@@ -52,11 +52,16 @@ To visualize the difference in price we simply use the barh.() method to create 
 
 As can be seen by the data above, Japan is the only country in which it would save money to purchase a PS5 there, although you would only save about $5 CAD. On the other hand, purchasing in China would result in an additional cost of about $520 CAD as opposed to purchasing in Canada.
 
-<strong><span style="font-size:30px;">Step 7 - The Purchasing Power Index:</span></strong>
+<strong><span style="font-size:30px;">Step 7 - Introducing the external factor</span></strong>
 
-The Purchasing Power Index (PPI) measures the relative value of money in different locations or periods, showing how much goods and services a unit of currency can buy. It is calculated based on the cost of a "basket of goods and services" that reflects typical consumer spending habits, making it a useful tool for comparing the cost of living and economic conditions. The PPI helps assess disparities in living costs between regions, set fair wages, and understand economic differences globally. Unlike Purchasing Power Parity (PPP), which focuses on currency comparisons, the PPI emphasizes localized purchasing power. However, it relies on accurate price data and is influenced by inflation, making regular updates essential for reliable insights.
+We thought that purchasing power index (PPI) would be an external factor that could affect PS5 pricing in different countries. To check if this was true, I first scraped and cleaned a table from the web that contained the purchasing power indices of different currencies. I then joined this table to our ps5 pricing table. From there I created a scatter plot of the PPI vs the price difference of the PS5 for all of our chosen countries.
+
 ![image](https://github.com/user-attachments/assets/c40ad291-fab8-4cb5-8e11-3bd860c4ccd5)
 
+Here we can see that there is indeed a correlation between PPI and the pricing difference of the PS5. Calculating the correlation coefficient of this plot, we ended up with a value of -0.75 which suggests the data is correlated relatively strongly.
+
+<strong><span style="font-size:30px;">The Purchasing Power Index:</span></strong>
+The <strong>Purchasing Power Index (PPI)</strong> measures the relative value of money in different locations or periods, showing how much goods and services a unit of currency can buy. It is calculated based on the cost of a "basket of goods and services" that reflects typical consumer spending habits, making it a useful tool for comparing the cost of living and economic conditions. The PPI helps assess disparities in living costs between regions, set fair wages, and understand economic differences globally. Unlike Purchasing Power Parity (PPP), which focuses on currency comparisons, the PPI emphasizes localized purchasing power. However, it relies on accurate price data and is influenced by inflation, making regular updates essential for reliable insights.
 
 <strong><span style="font-size:30px;">Conclusion:</span></strong>
 
