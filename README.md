@@ -1,7 +1,9 @@
 # Sony PS5 Price Analysis
 By:
 Daniel Dean: dcdean
+
 Kempes Pandey: sumantra
+
 Pranav Penmetsa: nagapran
 
 ![image](https://github.com/user-attachments/assets/236569b6-dd23-46af-a8a0-c1394cc286eb)
